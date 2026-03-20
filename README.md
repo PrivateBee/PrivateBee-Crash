@@ -23,7 +23,7 @@ The system computes the **optimal trajectory** not only in **space** but also in
 
 ## Repository Purpose
 
-<!-- Complete with the repository purpose and explain what part of the Private Bee project this repository covers -->
+This repository integrates all codebases and safety logic focused on Crash Detection and Prevention. Its goal is to provide the GPS 4D project with a unified framework for handling emergency maneuvers and minimizing impact risks in urban air mobility.
 
 ---
 
@@ -75,7 +75,7 @@ npm run build
 
 Example:
 ```bash
-git clone https://github.com/PrivateBeeTEST/your-repository.git
+git clone https://github.com/PrivateBee/PrivateBee-Crash.git
 cd your-repository
 npm install
 ```
